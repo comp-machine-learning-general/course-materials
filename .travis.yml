@@ -17,3 +17,7 @@ install:
 
 script:
   - pytest
+
+
+# File based off .yml file by McFee and Kell
+https://github.com/bmcfee/ismir2018-oss-tutorial/blob/master/.travis.yml
