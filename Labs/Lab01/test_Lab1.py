@@ -2,11 +2,12 @@ import pytest
 import labone 
 import os
 
+path, _ = os.path.split(os.path.abspath(__file__))
 
 def test_importdata():
 	expected = (517,13)
 	#dirname = os.getcwd()
-	fname = os.path.join("forestfires.csv")
+	fname = os.path.join(path,"forestfires.csv")
 	assert labone.importdata(fname).shape == expected
 
 def test_addingthings():
