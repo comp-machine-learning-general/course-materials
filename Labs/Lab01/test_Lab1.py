@@ -1,9 +1,12 @@
 import pytest
 import labone 
+import os
 
 
 def test_importdata():
 	expected = (517,13)
+	dirname = os.getcwd()
+	fname = os.path.join(dirname,"forestfires.csv")
 	assert labone.importdata("forestfires.csv").shape == expected
 
 def test_addingthings():
