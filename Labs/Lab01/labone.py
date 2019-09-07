@@ -7,5 +7,5 @@ def importdata(filename):
 def addingthings(x,y):
 	return x + y
 
-def addfive(z):
-	return 5 + z
+#def addfive(z):
+#	return addingthings(5,z)
