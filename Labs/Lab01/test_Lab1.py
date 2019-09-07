@@ -7,7 +7,7 @@ def test_importdata():
 	expected = (517,13)
 	#dirname = os.getcwd()
 	fname = os.path.join("forestfires.csv")
-	assert labone.importdata("forestfires.csv").shape == expected
+	assert labone.importdata(fname).shape == expected
 
 def test_addingthings():
 	expected = 7
