@@ -15,4 +15,4 @@ def test_addingthings():
 
 def test_addfive():
 	expected = 12
-	assert labone.addfive(7)
+	assert labone.addfive(7) == expected
