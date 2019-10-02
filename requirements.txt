@@ -1,6 +1,5 @@
 scipy
 matplotlib
-seaborn
 jupyter
 sphinx
 numpydoc
@@ -8,4 +7,5 @@ flake8
 pytest
 numpy
 pandas
-sklearn
+seaborn
+scikit-learn
