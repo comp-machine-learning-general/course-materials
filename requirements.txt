@@ -9,3 +9,6 @@ numpy
 pandas
 seaborn
 scikit-learn
+pydot
+line_profiler
+memory_profiler
