@@ -3,10 +3,11 @@ Class Materials for CSC 294: Computational Machine learning at Smith College
 
 ## References
 Machine learning is a broad field. As such, there are a number of references to materials and resources 
-are within each document. 
+are within each document. Labs that follow a resource closely are noted. 
 
 ## Errors
-This is the first version of much of these materials. There are errors, typos, and notes to the instructor to fix for next time. If you discover an error, please open an issue. 
+This is the first version of much of these materials. There are errors, typos, and notes to the instructor to 
+fix for next time. If you discover an error, please open an issue. 
 
 ## Author 
 The material in this repository has been curated and/or created by Katherine M. Kinnaird. 
