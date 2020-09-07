@@ -6,7 +6,7 @@ Machine learning is a broad field. As such, there are a number of references to 
 are within each document. 
 
 ## Errors
-This is the first version of much of these materials. There are errors. If you discover an error, please open an issue. 
+This is the first version of much of these materials. There are errors, typos, and notes to the instructor to fix for next time. If you discover an error, please open an issue. 
 
 ## Author 
 The material in this repository has been curated and/or created by Katherine M. Kinnaird. 
