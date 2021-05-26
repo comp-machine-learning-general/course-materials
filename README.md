@@ -6,15 +6,22 @@ Machine learning is a broad field. As such, there are a number of references to 
 are within each document. Labs that follow a resource closely are noted. 
 
 ## Errors
-This is the first version of much of these materials. There are errors, typos, and notes to the instructor to 
-fix for next time. If you discover an error, please open an issue. 
+These materials are updated each semester that they are used. This is the second version of much of 
+these materials. 
 
-## Author 
-The material in this repository has been curated and/or created by Katherine M. Kinnaird. 
+* Version 1 - Spring 2021 (via gather)
+* Version 0 - Fall 2019 (in-person)
+
+There are errors, typos, and notes to the instructor to fix for next time. If you discover an error, 
+please open an issue. 
+
+## Curator/Creator
+The material in this repository has been curated and/or created by Katherine M. Kinnaird. Some of the 
 
 ## Usage and Acknowledgements
-You are welcome to use these materials or versions of them in your own course or training. If you do so, please 
-acknowledge Katherine M. Kinnaird and this repository. 
+You are welcome to use these materials or versions of them in your own course or training. If you do so, 
+please acknowledge Katherine M. Kinnaird and this repository, along with sources directly cited in the 
+materials that you use. 
 
 If you would like access to homework assignments or projects, please email kkinnaird [at] smith [dot] edu
 
