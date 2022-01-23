@@ -9,6 +9,7 @@ are within each document. Labs that follow a resource closely are noted.
 These materials are updated each semester that they are used. This is the second version of much of 
 these materials. 
 
+* Version 2 - Spring 2022 (via gather and then in-person)
 * Version 1 - Spring 2021 (via gather)
 * Version 0 - Fall 2019 (in-person)
 
@@ -16,7 +17,8 @@ There are errors, typos, and notes to the instructor to fix for next time. If yo
 please open an issue. 
 
 ## Curator/Creator
-The material in this repository has been curated and/or created by Katherine M. Kinnaird. Some of the 
+The material in this repository has been curated and/or created by Katherine M. Kinnaird. 
+Version 2 (Spring 2022) includes edits by Kathleen R. Hablutzel (Smith College, 2023J)
 
 ## Usage and Acknowledgements
 You are welcome to use these materials or versions of them in your own course or training. If you do so, 
