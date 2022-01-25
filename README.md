@@ -6,7 +6,7 @@ Machine learning is a broad field. As such, there are a number of references to 
 are within each document. Labs that follow a resource closely are noted. 
 
 ## Errors
-These materials are updated each semester that they are used. This is the second version of much of 
+These materials are updated each semester that they are used. This is the third version of much of 
 these materials. 
 
 * Version 2 - Spring 2022 (via gather and then in-person)
@@ -22,7 +22,7 @@ Version 2 (Spring 2022) includes edits by Kathleen R. Hablutzel (Smith College, 
 
 ## Usage and Acknowledgements
 You are welcome to use these materials or versions of them in your own course or training. If you do so, 
-please acknowledge Katherine M. Kinnaird and this repository, along with sources directly cited in the 
+please acknowledge Katherine M. Kinnaird & Kathleen R. Hablutzel and this repository, along with sources directly cited in the 
 materials that you use. 
 
 If you would like access to homework assignments or projects, please email kkinnaird [at] smith [dot] edu
