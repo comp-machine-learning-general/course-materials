@@ -1,101 +1,392 @@
-Cloudy,Humid,Temp,rained_yesterday,raining_today
-1,1,0,0,1
-1,1,1,0,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,1,0,1
-1,1,0,0,1
-1,1,0,1,1
-1,1,0,0,1
-1,1,0,1,1
-1,1,1,1,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,1,0,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,0,1,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,0,0,1
-1,1,1,0,1
-1,1,0,0,1
-1,1,0,0,0
-1,1,0,0,0
-1,1,0,0,0
-1,1,1,1,0
-1,1,1,0,0
-1,1,0,1,0
-1,0,0,0,1
-1,0,1,0,1
-1,0,0,1,1
-1,0,0,0,1
-1,0,0,0,0
-1,0,1,0,0
-1,0,1,0,0
-1,0,0,0,0
-1,0,1,0,0
-1,0,0,0,0
-1,0,0,0,0
-1,0,0,0,0
-1,0,0,0,0
-1,0,1,0,0
-1,0,1,0,0
-1,0,0,0,0
-1,0,0,0,0
-1,0,0,0,0
-1,0,0,0,0
-1,0,0,1,0
-1,0,0,0,0
-1,0,0,0,0
-1,0,1,0,0
-1,0,0,0,0
-0,0,1,0,1
-0,1,1,0,1
-0,1,1,0,1
-0,0,1,0,1
-0,1,1,0,1
-0,0,1,1,1
-0,0,1,0,1
-0,1,1,0,1
-0,0,1,0,1
-0,0,1,0,0
-0,0,0,0,1
-0,1,0,0,1
-0,1,0,0,1
-0,0,0,1,1
-0,1,0,1,1
-0,0,0,0,1
-0,1,0,0,1
-0,0,0,0,1
-0,0,0,0,1
-0,0,0,0,1
-0,0,0,0,0
-0,1,0,0,0
-0,1,0,0,0
-0,0,0,0,0
-0,0,0,0,0
-0,1,0,0,0
-0,0,0,0,0
-0,1,0,0,0
-0,0,0,0,0
-0,0,0,1,0
-0,0,0,0,0
-0,0,0,0,0
-0,0,0,0,0
-0,0,0,0,0
-0,0,0,0,0
-0,1,0,0,0
-0,1,0,0,0
-0,1,0,0,0
-0,1,0,1,0
-0,1,0,0,0
+Breed Name,Size,"Avg. Life Span, years",Wanderlust Potential,Adaptability,All Around Friendliness,Health And Grooming Needs,Physical Needs,Easy To Train,Kid-Friendly,High-Energy,Good For Novice Owners
+Afador,4,11,4,2.4,3.0,3.2,4.0,False,False,True,False
+Affenhuahua,1,16,2,3.0,3.0,3.2,3.33,False,False,True,True
+Affenpinscher,1,13,2,3.2,3.33,2.4,3.33,False,False,True,True
+Afghan Hound,4,11,5,4.0,4.67,2.0,3.67,False,True,True,False
+Airedale Terrier,3,12,4,2.2,4.0,2.4,4.33,True,True,True,False
+Akbash,4,11,1,2.8,4.0,3.4,2.0,False,True,False,False
+Akita,4,11,4,3.0,2.33,3.8,3.67,False,False,True,False
+Akita Chow,4,11,3,2.8,1.0,2.8,4.0,False,False,True,False
+Akita Pit,4,11,1,2.6,3.33,3.6,3.33,False,False,False,False
+Akita Shepherd,4,12,2,3.0,3.33,3.0,3.33,True,False,False,False
+Alaskan Klee Kai,2,14,4,3.2,3.0,3.2,3.33,True,False,True,False
+Alaskan Malamute,4,14,5,2.4,3.0,2.8,5.0,True,False,True,False
+American Bulldog,4,13,3,1.8,3.67,2.8,4.0,True,True,True,False
+American English Coonhound,3,11,5,2.8,4.67,3.2,5.0,True,True,True,False
+American Eskimo Dog,2,14,3,4.0,5.0,3.6,4.0,True,True,True,True
+American Foxhound,3,12,5,2.0,4.67,3.8,4.67,False,True,True,False
+American Hairless Terrier,2,14,3,2.6,3.67,3.0,3.33,False,True,True,False
+American Leopard Hound,4,14,4,3.2,4.33,2.8,3.67,True,True,True,True
+American Pit Bull Terrier,3,14,4,2.4,3.67,3.4,4.33,True,True,True,False
+American Pugabull,3,13,2,2.6,4.0,3.0,3.67,False,True,True,False
+American Staffordshire Terrier,3,12,3,2.2,3.33,2.8,3.67,True,True,False,False
+American Water Spaniel,3,14,5,2.4,4.0,2.6,4.0,True,True,True,False
+Anatolian Shepherd Dog,5,12,4,3.0,2.33,3.0,3.0,True,False,False,False
+Appenzeller Sennenhunde,3,10,3,2.6,4.33,3.2,4.33,True,True,True,False
+Auggie,3,14,3,3.2,5.0,2.8,4.67,True,True,True,False
+Aussiedoodle,3,12,3,2.6,4.33,3.6,4.67,True,True,True,False
+Aussiepom,3,14,2,2.6,3.67,3.0,4.0,True,False,True,False
+Australian Cattle Dog,3,14,4,2.8,4.0,3.4,5.0,True,False,True,False
+Australian Kelpie,3,12,4,2.6,3.0,2.6,4.33,True,False,True,False
+Australian Retriever,4,14,4,2.8,3.67,3.2,4.33,True,True,True,True
+Australian Shepherd,3,14,5,2.8,4.67,2.2,4.67,True,True,True,False
+Australian Shepherd Husky,4,14,5,2.6,3.33,3.2,5.0,True,False,True,False
+Australian Shepherd Lab Mix,4,14,5,3.6,4.0,3.4,5.0,True,True,True,False
+Australian Shepherd Pit Bull Mix,4,13,3,2.6,3.67,3.6,3.67,True,True,True,False
+Australian Stumpy Tail Cattle Dog,3,14,4,2.4,2.67,3.4,4.67,False,False,True,False
+Australian Terrier,1,15,4,3.0,3.0,3.0,4.67,False,False,True,False
+Azawakh,4,14,2,2.8,3.0,3.0,3.0,False,False,False,False
+Barbet,3,14,3,2.6,4.33,2.2,3.67,True,True,True,False
+Basenji,2,11,5,3.4,4.67,2.2,3.67,False,True,True,True
+Bassador,4,11,3,2.8,3.0,3.6,3.0,False,False,False,False
+Basset Fauve de Bretagne,2,14,1,3.4,4.33,2.6,3.33,False,True,True,True
+Basset Hound,3,11,5,3.6,5.0,3.8,2.0,False,True,False,True
+Basset Retriever,3,11,4,2.8,3.67,3.2,3.33,True,True,True,False
+Bavarian Mountain Scent Hound,3,12,2,2.2,4.0,2.4,3.33,False,True,True,False
+Beabull,3,12,4,3.4,4.67,3.8,3.33,False,True,False,False
+Beagle,2,12,5,2.8,5.0,2.8,4.33,False,True,True,False
+Beaglier,2,12,4,3.2,5.0,3.0,3.33,False,True,False,True
+Bearded Collie,3,13,5,3.4,4.67,2.8,4.0,True,True,True,True
+Bedlington Terrier,3,15,4,3.6,4.33,2.8,3.33,False,True,True,True
+Belgian Laekenois,4,11,3,2.6,4.0,3.2,3.67,False,True,True,False
+Belgian Malinois,4,13,3,3.2,3.67,2.8,4.67,True,True,True,False
+Belgian Sheepdog,4,11,4,3.6,4.67,2.8,4.33,True,True,True,False
+Belgian Tervuren,4,11,4,3.2,3.33,2.6,4.0,True,False,True,False
+Bergamasco Sheepdog,3,14,3,3.2,4.33,2.8,3.0,False,True,True,True
+Berger Picard,4,14,2,3.8,4.33,3.6,4.33,True,True,True,True
+Bernedoodle,3,15,3,3.4,4.67,2.6,3.33,True,True,True,False
+Bernese Mountain Dog,5,8,3,2.6,4.33,3.4,3.33,True,True,True,False
+Bichon Frise,2,14,2,3.8,4.33,2.4,3.67,True,True,True,True
+Biewer Terrier,1,14,1,3.2,4.0,2.6,3.67,False,True,True,False
+Black and Tan Coonhound,3,11,5,2.4,5.0,4.4,5.0,False,True,True,False
+Black Mouth Cur,4,15,4,2.4,4.33,3.2,4.0,False,True,True,False
+Black Russian Terrier,5,10,3,3.0,3.67,2.8,4.0,True,True,False,False
+Bloodhound,4,13,5,2.4,5.0,3.2,4.67,False,True,True,False
+Blue Lacy,3,14,4,2.4,3.0,3.2,5.0,True,False,True,False
+Bluetick Coonhound,3,11,5,2.8,4.33,3.2,4.67,False,True,True,False
+Bocker,2,14,5,3.4,4.33,2.8,3.67,True,True,True,False
+Boerboel,5,11,4,2.0,3.33,3.6,3.67,False,True,False,False
+Boglen Terrier,2,12,5,3.2,5.0,2.6,4.33,False,True,True,True
+Bohemian Shepherd,3,12,3,3.0,4.0,3.2,3.67,True,True,True,False
+Bolognese,1,13,1,3.4,5.0,2.2,3.33,True,True,False,False
+Borador,4,12,3,2.6,4.33,3.4,3.67,True,True,True,False
+Border Collie,3,14,3,2.8,4.0,2.4,4.33,True,True,True,False
+Border Sheepdog,3,14,2,2.6,4.0,2.6,4.33,True,True,True,False
+Border Terrier,2,14,4,3.0,3.67,3.0,4.33,False,True,True,False
+Bordoodle,3,14,3,3.6,4.0,3.0,2.67,True,True,False,True
+Borzoi,5,11,4,3.6,3.67,3.2,2.0,False,False,False,False
+BoShih,2,14,2,3.0,3.0,2.8,2.67,False,False,False,True
+Bossie,3,14,5,3.0,4.0,2.4,4.33,True,True,True,False
+Boston Boxer,3,14,2,3.0,4.0,3.6,3.67,False,True,True,False
+Boston Terrier,2,14,5,4.0,4.67,3.0,4.33,True,True,True,True
+Boston Terrier Pekingese Mix,1,12,2,2.8,3.67,3.2,3.0,False,True,False,False
+Bouvier des Flandres,4,11,2,3.0,4.0,2.2,4.33,True,True,True,False
+Boxador,4,14,3,2.0,4.33,3.4,5.0,True,True,True,False
+Boxer,3,11,3,2.8,4.0,3.4,5.0,True,True,True,False
+Boxerdoodle,3,11,4,2.4,3.67,2.8,4.0,True,False,True,False
+Boxmatian,5,12,4,2.0,3.0,3.4,4.67,False,False,True,False
+Boxweiler,4,10,1,2.8,4.33,3.0,3.67,True,True,True,False
+Boykin Spaniel,3,11,4,2.8,4.67,2.4,5.0,True,True,True,False
+Bracco Italiano,4,12,3,2.6,4.67,3.0,4.33,False,True,True,False
+Braque du Bourbonnais,3,14,2,2.2,4.33,2.4,4.0,True,True,True,False
+Briard,4,11,5,3.4,4.67,1.8,4.0,True,True,True,False
+Brittany,3,12,4,2.8,5.0,3.6,4.33,False,True,True,False
+Broholmer,5,10,2,3.0,4.0,3.2,3.0,True,True,False,True
+Brussels Griffon,1,14,5,2.8,4.33,3.0,4.0,False,True,True,False
+Bugg,2,12,2,3.2,3.0,3.2,3.0,False,False,True,True
+Bull Arab,4,14,4,2.4,2.33,3.0,4.33,False,False,True,False
+Bull-Pei,3,10,1,2.6,2.33,3.6,2.0,False,False,False,False
+Bull Terrier,2,12,5,3.0,4.67,3.6,4.67,True,True,True,False
+Bullador,4,11,3,2.4,4.0,4.0,4.0,True,True,True,False
+Bullboxer Pit,3,12,3,2.0,3.33,4.0,5.0,False,True,True,False
+Bulldog,2,10,1,3.4,3.67,4.4,2.67,False,True,False,True
+Bullmastiff,5,9,3,3.0,4.67,3.6,3.0,False,True,False,False
+Bullmatian,3,10,3,2.2,4.33,3.4,4.33,False,True,True,False
+Cairn Terrier,1,14,3,3.4,4.67,3.2,4.33,False,True,True,True
+Canaan Dog,3,14,2,3.2,3.0,3.4,3.33,True,False,True,False
+Cane Corso,4,11,2,1.8,3.0,3.8,4.0,True,False,True,False
+Cardigan Welsh Corgi,2,14,3,3.8,4.0,3.2,3.0,True,True,False,True
+Carolina Dog,3,14,3,2.2,3.33,3.8,4.33,False,False,True,False
+Catahoula Bulldog,4,12,3,1.6,3.0,2.8,5.0,False,False,True,False
+Catahoula Leopard Dog,4,12,3,1.8,3.0,3.0,4.0,False,False,True,False
+Caucasian Shepherd Dog,5,11,2,2.6,2.67,3.4,2.67,False,False,False,False
+Cav-a-Jack,2,14,3,3.0,4.0,3.0,3.67,True,True,True,True
+Cavachon,2,12,2,3.8,5.0,2.6,3.67,True,True,True,True
+Cavador,3,12,3,3.4,4.67,3.4,3.67,True,True,True,True
+Cavalier King Charles Spaniel,2,12,2,3.8,5.0,3.2,3.0,True,True,False,True
+Cavapoo,2,14,3,3.0,4.67,2.6,2.67,True,True,False,False
+Central Asian Shepherd Dog,4,14,2,2.6,3.33,4.4,3.33,False,False,False,False
+Cesky Terrier,2,12,3,3.8,3.33,3.0,2.67,True,False,False,True
+Chabrador,3,11,3,3.4,3.33,3.6,3.33,False,True,False,False
+Cheagle,2,12,3,2.8,3.67,3.2,3.67,False,False,True,True
+Chesapeake Bay Retriever,3,11,4,2.2,3.0,4.2,5.0,False,False,True,False
+Chi Chi,2,16,2,2.8,2.67,3.0,3.67,False,False,True,False
+Chi-Poo,2,14,3,4.2,4.33,2.2,2.33,True,True,False,True
+Chigi,1,13,3,3.4,4.0,3.2,4.0,True,True,True,True
+Chihuahua,1,14,2,3.2,4.0,2.6,2.0,True,True,False,True
+Chilier,2,14,2,2.8,4.0,3.2,3.67,False,True,True,False
+Chinese Crested,2,12,1,3.0,4.33,2.4,1.67,True,True,False,False
+Chinese Shar-Pei,3,10,2,2.8,1.67,2.8,2.0,False,False,False,False
+Chinook,4,14,2,3.2,5.0,3.0,3.0,True,True,False,False
+Chion,2,12,1,2.8,3.67,3.0,3.0,False,False,True,False
+Chipin,1,12,3,3.2,3.67,3.0,3.0,True,True,True,True
+Chiweenie,1,14,2,3.0,3.0,2.8,3.33,False,False,True,False
+Chorkie,1,14,2,3.4,3.33,2.2,3.33,False,False,True,True
+Chow Chow,4,14,2,3.4,1.33,2.2,2.0,False,False,False,False
+Chow Shepherd,4,14,3,3.2,2.67,2.6,4.67,False,False,True,False
+Chug,1,12,2,3.2,4.0,3.6,3.33,False,True,True,False
+Chusky,3,12,2,3.0,3.67,3.0,3.67,False,True,True,False
+Cirneco dell’Etna,3,13,1,3.2,4.67,2.8,3.0,False,True,True,False
+Clumber Spaniel,3,12,4,4.2,4.0,3.6,2.0,True,False,False,True
+Cockalier,2,14,2,3.2,4.67,2.8,3.33,True,True,True,True
+Cockapoo,2,14,3,4.0,4.67,2.0,3.0,True,True,False,True
+Cocker Spaniel,2,14,4,3.6,4.0,2.6,3.0,True,False,True,False
+Collie,3,12,1,3.6,4.67,2.8,2.67,True,True,False,True
+Corgi Inu,2,14,2,3.4,3.0,3.0,3.67,True,False,True,False
+Corgidor,3,12,3,3.0,4.0,3.8,4.0,True,True,True,False
+Corman Shepherd,3,12,2,2.8,4.0,3.4,3.67,True,True,True,False
+Coton de Tulear,1,14,3,3.6,5.0,2.4,2.67,False,True,False,True
+Croatian Sheepdog,3,13,3,3.0,3.0,3.4,4.0,False,False,True,False
+Curly-Coated Retriever,3,10,4,2.8,4.67,2.6,4.0,True,True,True,False
+Dachsador,2,13,4,2.8,3.67,3.0,3.67,False,True,True,False
+Dachshund,1,14,5,3.4,4.0,2.8,3.0,False,True,False,True
+Dalmatian,3,14,4,3.0,4.33,3.8,4.67,True,True,True,False
+Dandie Dinmont Terrier,1,14,3,3.2,4.0,2.6,2.67,False,True,False,True
+Daniff,5,10,2,2.4,4.33,2.6,3.67,True,True,False,False
+Danish-Swedish Farmdog,2,12,1,3.2,5.0,3.6,4.0,True,True,True,False
+Deutscher Wachtelhund,4,13,2,2.8,4.33,3.0,3.67,True,True,True,False
+Doberdor,5,12,4,1.8,3.0,3.0,4.67,False,False,True,False
+Doberman Pinscher,4,12,2,2.8,3.0,3.4,3.0,True,False,False,False
+Docker,2,13,5,2.8,3.67,2.8,3.0,False,False,False,False
+Dogo Argentino,4,12,4,1.8,2.67,2.6,4.0,False,False,True,False
+Dogue de Bordeaux,4,10,1,3.0,3.67,3.8,3.0,False,True,False,False
+Dorgi,2,14,3,3.2,4.0,3.2,4.0,False,True,True,True
+Dorkie,1,14,2,3.4,4.0,2.0,2.0,False,True,False,True
+Doxiepoo,2,12,4,3.4,2.67,3.0,4.0,False,False,True,False
+Doxle,2,13,5,2.6,4.67,3.6,4.67,False,True,True,True
+Drentsche Patrijshond,3,12,1,3.2,4.33,3.2,4.0,False,True,True,False
+Drever,3,14,2,2.6,4.67,3.2,4.0,False,True,True,False
+Dutch Shepherd,3,14,2,3.0,4.0,3.0,3.67,True,True,True,False
+English Cocker Spaniel,2,13,4,3.8,5.0,3.2,4.0,True,True,True,True
+English Foxhound,3,12,5,2.6,4.33,3.0,4.67,False,True,True,False
+English Setter,3,13,5,2.6,5.0,3.2,3.67,False,True,True,False
+English Springer Spaniel,3,12,4,2.4,5.0,2.4,4.33,True,True,True,False
+English Toy Spaniel,2,11,2,3.0,3.33,3.2,2.67,False,False,False,True
+Entlebucher Mountain Dog,3,12,3,2.8,4.33,3.0,4.67,False,True,True,False
+Estrela Mountain Dog,4,13,1,2.6,4.33,3.2,3.0,True,True,False,False
+Eurasier,4,13,1,2.8,4.0,3.2,2.67,True,True,False,False
+Field Spaniel,2,11,5,2.4,4.67,3.0,4.33,True,True,True,False
+Fila Brasileiro,5,10,3,2.0,2.67,3.2,4.0,False,False,True,False
+Finnish Lapphund,3,14,4,3.8,5.0,3.2,4.67,True,True,True,True
+Finnish Spitz,3,14,4,3.0,5.0,2.8,4.67,False,True,True,False
+Flat-Coated Retriever,3,11,4,2.6,5.0,3.4,4.67,True,True,True,False
+Fox Terrier,2,12,3,3.0,3.67,2.2,5.0,True,True,True,False
+French Bulldog,2,12,2,3.2,4.33,3.0,3.0,True,True,False,True
+French Bullhuahua,1,12,2,2.8,3.0,3.6,3.0,False,False,False,False
+French Spaniel,3,11,2,3.4,4.33,2.8,4.0,True,True,True,True
+Frenchton,2,14,3,3.6,5.0,3.6,3.0,True,True,False,True
+Frengle,3,12,3,3.4,4.67,3.4,3.67,False,True,True,True
+German Longhaired Pointer,4,12,4,2.6,4.33,3.6,4.33,True,True,True,False
+German Pinscher,3,13,4,3.2,3.33,3.2,4.33,True,False,True,False
+German Shepherd Dog,4,12,2,3.2,4.0,3.4,5.0,True,True,True,False
+German Shepherd Pit Bull,4,11,3,2.0,4.67,3.8,5.0,True,True,True,False
+German Shepherd Rottweiler Mix,4,11,2,3.4,3.67,3.6,3.67,False,True,True,True
+German Sheprador,4,11,2,2.8,4.67,3.6,5.0,True,True,True,False
+German Shorthaired Pointer,3,14,5,2.0,4.67,3.0,4.33,True,True,True,False
+German Spitz,1,14,2,3.0,4.0,3.0,4.0,False,True,True,False
+German Wirehaired Pointer,4,13,5,2.8,3.67,3.0,4.67,True,False,True,False
+Giant Schnauzer,4,11,4,2.4,3.67,2.8,4.0,True,False,True,False
+Glen of Imaal Terrier,1,14,3,3.0,4.0,3.0,4.33,True,True,True,False
+Goberian,4,12,4,2.6,4.0,3.2,4.67,False,True,True,False
+Goldador,4,12,4,3.6,5.0,3.2,5.0,True,True,True,True
+Golden Cocker Retriever,3,14,4,2.4,4.33,3.4,3.67,True,True,True,True
+Golden Mountain Dog,5,12,4,2.4,4.67,3.4,3.67,True,True,True,False
+Golden Retriever,3,11,2,2.8,5.0,3.6,4.0,True,True,True,False
+Golden Retriever Corgi,3,12,2,3.2,4.67,3.4,3.33,True,True,True,True
+Golden Shepherd,5,12,2,3.0,4.33,3.0,4.33,True,True,True,False
+Goldendoodle,4,12,3,3.0,5.0,2.6,4.0,True,True,True,True
+Gollie,3,14,4,2.6,4.67,3.2,4.0,True,True,True,True
+Gordon Setter,3,11,4,2.8,3.33,3.4,4.0,True,False,True,False
+Great Dane,5,8,3,2.0,5.0,4.0,5.0,True,True,True,False
+Great Pyrenees,5,11,5,2.8,4.33,3.4,5.0,False,True,True,False
+Greater Swiss Mountain Dog,5,8,3,3.0,5.0,3.0,4.0,False,True,True,False
+Greyador,4,12,4,2.4,5.0,4.6,4.0,False,True,True,False
+Greyhound,4,14,5,2.6,4.67,4.6,4.33,True,True,True,False
+Hamiltonstovare,3,16,2,3.0,4.0,2.6,4.0,False,True,True,False
+Hanoverian Scenthound,4,13,2,2.6,4.67,2.8,3.67,False,True,True,False
+Harrier,3,11,5,2.4,4.67,3.4,4.67,False,True,True,False
+Havanese,2,14,2,3.6,4.67,2.2,2.67,True,True,False,True
+Havapoo,2,12,3,3.6,4.33,2.0,2.67,True,True,False,True
+Hokkaido,3,12,3,3.0,3.67,3.0,2.67,False,True,False,False
+Horgi,2,14,3,2.8,4.67,3.0,3.67,True,True,True,False
+Hovawart,4,12,2,2.4,3.33,3.0,4.0,False,True,True,False
+Huskita,4,12,5,2.6,3.0,3.0,4.33,False,False,True,False
+Huskydoodle,3,12,2,2.6,4.0,3.2,4.67,False,True,True,False
+Ibizan Hound,3,12,5,3.0,5.0,2.8,4.33,False,True,True,False
+Icelandic Sheepdog,3,14,4,2.4,3.33,2.6,4.33,False,True,True,False
+Irish Red And White Setter,3,12,4,2.6,4.33,2.2,5.0,True,True,True,False
+Irish Setter,4,13,5,2.8,5.0,2.8,4.33,True,True,True,False
+Irish Terrier,3,14,3,2.8,3.67,3.0,4.33,False,True,True,False
+Irish Water Spaniel,3,11,3,3.2,4.67,2.2,4.33,True,True,True,False
+Irish Wolfhound,5,7,3,2.4,5.0,2.2,2.67,False,True,False,False
+Italian Greyhound,2,14,3,3.4,4.67,2.6,3.33,False,True,True,True
+Jack-A-Poo,2,14,4,3.6,5.0,2.4,4.67,True,True,True,True
+Jack Chi,2,16,4,2.8,4.33,3.4,4.0,False,True,True,False
+Jack Russell Terrier,2,12,4,3.0,4.67,3.0,5.0,True,True,True,False
+Jackshund,2,14,5,3.0,4.33,3.0,4.0,False,True,True,False
+Japanese Chin,1,12,1,3.2,3.0,2.6,1.67,False,False,False,True
+Japanese Spitz,2,13,2,3.4,4.33,2.6,2.67,True,True,False,True
+Korean Jindo Dog,3,14,5,3.0,3.67,2.6,4.33,False,False,True,False
+Kai Ken,3,14,3,2.6,3.67,3.0,4.67,False,True,True,False
+Karelian Bear Dog,3,12,5,2.8,2.67,2.8,4.33,False,False,True,False
+Keeshond,3,14,2,3.8,4.67,3.2,3.33,True,True,True,True
+Kerry Blue Terrier,3,14,3,3.0,3.33,2.0,4.33,True,True,True,False
+King Shepherd,5,10,3,3.4,4.33,3.8,3.33,True,True,False,False
+Kishu Ken,3,11,2,3.2,2.67,3.2,3.33,True,False,False,False
+Komondor,4,11,4,2.4,3.0,2.4,2.33,True,False,False,False
+Kooikerhondje,3,13,3,3.4,2.33,2.8,4.67,False,False,True,False
+Kuvasz,5,11,3,2.6,2.67,3.8,4.33,False,False,True,False
+Kyi-Leo,2,14,2,4.2,4.67,2.2,3.0,False,True,True,True
+Lab Pointer,4,12,4,2.6,4.0,3.2,4.33,True,True,True,True
+Labernese,4,9,4,3.0,4.33,3.2,3.33,False,True,True,True
+Labmaraner,4,11,4,2.6,4.33,3.0,4.0,True,True,True,True
+Labrabull,4,12,4,2.4,4.0,3.6,4.67,True,True,True,False
+Labradane,5,10,3,2.4,4.67,3.4,3.33,False,True,True,False
+Labradoodle,4,13,3,3.8,4.67,3.0,4.67,True,True,True,True
+Labrador Retriever,4,11,3,2.8,5.0,4.2,5.0,True,True,True,False
+Labrastaff,4,12,4,2.4,3.67,3.6,3.67,False,True,True,False
+Labsky,4,11,4,2.6,4.0,3.0,4.67,True,True,True,False
+Lagotto Romagnolo,2,16,3,3.2,3.0,2.2,3.33,True,False,True,True
+Lakeland Terrier,2,14,3,3.2,4.0,2.6,4.33,False,True,True,False
+Lancashire Heeler,1,12,4,2.6,3.33,3.2,3.67,False,False,True,False
+Leonberger,5,11,2,2.6,4.0,3.4,4.0,False,True,True,False
+Lhasa Apso,1,14,2,4.4,3.67,2.2,3.33,False,True,True,True
+Lhasapoo,3,12,2,3.0,3.33,2.4,3.67,False,False,True,False
+Lowchen,1,14,5,3.2,4.67,3.0,3.67,True,True,True,True
+Maltese,1,14,1,3.2,4.0,2.2,2.67,True,False,False,True
+Maltese Shih Tzu,1,13,1,3.6,3.33,1.8,2.67,True,False,False,True
+Maltipoo,2,12,4,3.6,4.33,1.8,2.67,True,True,False,True
+Manchester Terrier,2,15,4,3.0,3.33,3.0,4.0,False,False,True,False
+Maremma Sheepdog,4,12,2,2.4,4.0,4.0,4.0,False,True,True,False
+Mastador,4,11,2,2.8,4.33,4.0,4.0,True,True,True,False
+Mastiff,5,8,1,2.6,4.0,3.6,3.33,False,True,False,False
+Miniature Pinscher,1,12,5,3.2,3.33,3.2,3.67,False,False,True,False
+Miniature Schnauzer,2,13,3,4.0,3.67,2.4,4.33,True,False,True,False
+Morkie,1,12,2,2.4,3.0,2.6,3.67,False,False,True,False
+Mountain Cur,4,13,4,2.2,3.67,2.6,4.33,False,True,True,False
+Mountain Feist,2,14,4,2.8,3.67,3.4,4.0,False,False,True,False
+Mudi,2,13,4,3.0,2.67,2.8,3.33,True,False,True,True
+Neapolitan Mastiff,5,9,1,1.8,3.67,3.6,2.33,False,True,False,False
+Newfoundland,5,9,3,2.8,4.67,3.4,2.33,True,True,False,False
+Norfolk Terrier,1,14,4,4.0,4.67,3.2,4.0,True,True,True,True
+Northern Inuit Dog,4,14,5,2.4,4.0,2.8,4.67,False,True,True,False
+Norwegian Buhund,3,14,4,3.6,4.33,2.6,4.33,True,True,True,False
+Norwegian Elkhound,3,14,4,3.8,4.33,3.4,4.33,False,True,True,True
+Norwegian Lundehund,3,11,5,2.4,5.0,3.2,4.33,True,True,True,False
+Norwich Terrier,1,12,4,3.6,5.0,2.8,4.33,True,True,True,False
+Nova Scotia Duck Tolling Retriever,3,12,3,3.4,4.67,3.4,4.33,True,True,True,False
+Old English Sheepdog,4,11,2,3.8,4.33,2.8,3.67,False,True,True,True
+Otterhound,4,11,5,3.2,5.0,2.8,4.67,False,True,True,True
+Papillon,1,14,1,3.2,4.0,2.4,4.0,True,False,True,True
+Papipoo,1,12,2,3.4,4.0,2.0,4.33,True,False,True,True
+Patterdale Terrier,2,12,4,2.4,4.0,2.8,4.0,False,True,True,False
+Peekapoo,1,12,1,3.8,4.33,2.4,2.67,False,True,False,True
+Pekingese,1,14,3,3.6,3.0,2.2,1.67,False,False,False,True
+Pembroke Welsh Corgi,2,13,2,3.8,4.0,3.4,3.67,True,True,True,True
+Petit Basset Griffon Vendéen,2,14,5,3.4,5.0,2.8,4.67,False,True,True,False
+Pharaoh Hound,3,12,4,3.2,5.0,3.0,3.0,False,True,False,True
+Pitsky,3,14,4,2.2,4.33,3.0,4.33,False,True,True,False
+Plott,3,13,5,2.0,4.0,3.2,4.33,True,False,True,False
+Pocket Beagle,2,10,5,3.0,5.0,3.4,4.0,False,True,True,False
+Pointer,3,14,5,1.6,5.0,3.0,5.0,True,True,True,False
+Polish Lowland Sheepdog,3,11,3,3.4,4.0,2.0,3.67,True,True,True,False
+Pomapoo,1,14,1,3.6,3.67,2.4,3.0,True,False,False,True
+Pomchi,1,15,3,3.0,3.33,3.0,3.33,False,False,False,False
+Pomeagle,1,14,4,3.2,3.67,2.8,3.33,False,False,True,True
+Pomeranian,1,14,1,3.4,3.0,2.8,2.33,True,False,False,True
+Pomsky,2,14,2,3.4,3.33,2.6,3.0,False,False,True,False
+Poochon,2,14,2,3.8,4.67,2.0,3.67,True,True,True,True
+Poodle,4,14,3,3.6,4.67,1.8,3.67,True,True,True,True
+Portuguese Podengo Pequeno,1,14,3,3.4,4.0,2.8,3.67,True,True,True,True
+Portuguese Pointer,3,13,3,2.0,3.33,3.2,4.33,True,True,True,False
+Portuguese Sheepdog,4,12,2,2.8,4.0,3.2,3.67,False,True,True,False
+Portuguese Water Dog,3,12,3,3.4,5.0,2.2,4.33,True,True,True,False
+Pudelpointer,4,12,4,2.2,3.33,3.0,4.0,True,False,True,False
+Pug,2,14,2,3.2,4.33,3.4,3.33,False,True,False,True
+Pugalier,2,14,2,3.8,5.0,3.4,3.0,True,True,False,True
+Puggle,2,12,5,3.6,4.33,3.6,2.67,False,True,False,True
+Puginese,2,13,1,4.0,3.0,3.2,3.0,False,False,False,False
+Puli,3,12,5,3.0,5.0,2.2,5.0,False,True,True,False
+Pyredoodle,4,11,5,3.4,4.33,2.8,3.67,False,True,True,True
+Pyrenean Mastiff,5,12,1,3.2,4.0,3.4,3.67,False,True,True,False
+Pyrenean Shepherd,2,16,2,3.2,4.0,2.4,4.67,False,True,True,False
+Rat Terrier,1,16,4,3.2,4.0,3.4,4.33,True,True,True,False
+Redbone Coonhound,3,11,5,3.2,4.67,3.4,4.33,False,True,True,False
+Rhodesian Ridgeback,4,11,5,2.4,4.33,3.4,4.33,False,True,True,False
+Rottador,4,11,3,3.0,4.0,4.0,5.0,True,True,True,False
+Rottle,3,12,2,3.2,4.0,3.0,3.67,True,True,True,False
+Rottweiler,3,10,2,2.0,3.67,4.0,4.0,True,True,True,False
+Saint Berdoodle,4,10,3,3.2,5.0,3.0,3.0,True,True,False,True
+Saint Bernard,5,9,2,3.0,5.0,3.4,2.33,False,True,False,False
+Saluki,4,13,5,2.2,4.33,2.4,4.0,True,True,True,False
+Samoyed,3,13,4,3.0,5.0,3.0,4.0,False,True,True,False
+Samusky,4,14,4,3.0,4.33,3.0,4.0,False,True,True,False
+Schipperke,1,14,5,3.2,3.67,3.6,4.33,False,True,True,False
+Schnoodle,4,12,3,3.2,4.0,2.8,3.67,True,True,True,True
+Scottish Deerhound,5,10,4,2.2,3.67,3.0,5.0,False,True,True,False
+Scottish Terrier,2,12,5,3.4,4.33,2.4,4.0,False,True,True,False
+Sealyham Terrier,2,13,3,3.6,4.0,3.2,3.33,False,True,True,True
+Sheepadoodle,4,14,2,3.8,4.67,2.6,3.67,False,True,True,True
+Shepsky,4,12,2,2.4,4.0,3.0,4.67,True,True,True,False
+Shetland Sheepdog,2,14,2,3.2,4.67,3.0,3.33,True,True,True,False
+Shiba Inu,2,14,4,4.2,3.33,2.8,3.0,False,False,True,True
+Shichon,2,15,1,3.2,4.67,2.6,3.0,False,True,True,True
+Shih-Poo,1,15,2,3.2,3.33,2.2,2.0,False,False,False,False
+Shih Tzu,1,13,2,3.8,4.33,2.4,2.33,False,True,False,True
+Shikoku,3,11,3,3.2,3.0,3.6,3.0,False,False,False,False
+Shiloh Shepherd,5,12,3,2.8,4.67,3.6,4.0,True,True,True,False
+Shiranian,2,14,2,3.2,3.67,2.2,2.33,False,False,False,True
+Shollie,4,14,4,2.4,3.67,3.2,4.33,True,True,True,False
+Shorkie,1,14,3,2.8,3.0,2.4,3.0,False,False,True,False
+Siberian Husky,3,14,5,2.6,5.0,3.0,4.33,False,True,True,False
+Silken Windhound,3,17,4,3.6,4.0,2.8,3.33,True,True,True,True
+Silky Terrier,1,14,3,3.0,3.0,2.8,3.67,True,False,True,False
+Skye Terrier,2,13,4,3.4,3.33,3.0,3.33,False,True,False,True
+Sloughi,4,14,3,3.0,4.67,2.8,4.33,False,True,True,False
+Small Munsterlander Pointer,3,13,4,3.0,5.0,3.0,4.67,True,True,True,False
+Soft Coated Wheaten Terrier,3,14,4,3.4,5.0,2.6,3.67,True,True,True,True
+Spanish Mastiff,5,11,2,2.6,3.33,3.0,2.67,False,True,False,False
+Spinone Italiano,4,12,2,3.8,5.0,2.8,3.33,True,True,True,True
+Springador,4,12,4,2.8,3.33,3.0,3.67,True,False,True,False
+Stabyhoun,3,14,3,2.8,4.67,3.0,3.67,True,True,False,False
+Staffordshire Bull Terrier,2,13,4,2.6,3.67,3.6,3.33,False,True,False,False
+Staffy Bull Bullmastiff,4,14,2,2.6,3.33,2.8,2.0,False,True,False,False
+Standard Schnauzer,3,14,5,3.2,3.67,2.0,4.33,False,True,True,False
+Sussex Spaniel,2,12,1,4.2,5.0,3.4,1.67,False,True,False,True
+Swedish Lapphund,3,13,2,3.0,4.0,2.6,3.33,True,True,False,False
+Swedish Vallhund,3,14,3,2.8,4.0,3.6,4.33,True,True,True,False
+Taiwan Dog,3,12,4,2.8,3.67,3.4,3.67,True,False,True,False
+Terripoo,1,12,3,3.2,4.0,2.2,4.0,True,True,True,True
+Texas Heeler,3,14,4,3.0,3.33,3.4,4.33,False,False,True,False
+Thai Ridgeback,3,12,4,2.4,2.67,3.2,4.0,False,False,True,False
+Tibetan Mastiff,5,12,3,2.6,5.0,3.0,2.67,False,True,True,False
+Tibetan Spaniel,1,14,3,3.2,4.67,3.2,3.33,True,True,False,True
+Tibetan Terrier,2,14,3,3.4,4.67,2.2,4.67,True,True,True,False
+Toy Fox Terrier,1,14,4,3.0,4.0,3.4,4.67,False,True,True,False
+Transylvanian Hound,3,11,4,2.6,3.33,3.4,4.33,False,False,True,False
+Treeing Tennessee Brindle,3,11,1,2.2,4.0,3.8,4.33,False,True,True,False
+Treeing Walker Coonhound,4,12,5,2.6,3.67,3.4,4.33,False,True,True,False
+Valley Bulldog,4,10,1,2.8,4.0,3.8,4.0,False,True,True,False
+Vizsla,3,12,5,2.2,5.0,2.8,4.67,True,True,True,False
+Weimaraner,4,12,5,2.4,4.0,3.6,5.0,True,True,True,False
+Welsh Springer Spaniel,3,12,5,3.6,4.67,3.2,4.67,True,True,True,True
+Welsh Terrier,2,12,4,2.6,4.67,2.6,5.0,False,True,True,False
+West Highland White Terrier,2,14,3,3.6,4.67,3.0,4.0,True,True,True,True
+Westiepoo,2,14,3,3.0,4.0,3.0,4.0,True,True,True,True
+Whippet,3,14,4,3.2,4.67,2.6,4.0,True,True,True,False
+Whoodle,3,14,3,2.6,3.67,2.4,4.0,False,True,True,False
+Wirehaired Pointing Griffon,3,12,4,2.6,4.67,2.4,4.0,True,True,True,False
+Xoloitzcuintli,3,17,5,3.0,3.33,3.0,3.0,False,False,False,False
+Yakutian Laika,3,11,3,2.6,4.33,3.2,4.0,True,True,True,False
+Yorkipoo,1,12,2,3.8,4.0,2.2,3.67,True,True,True,True
+Yorkshire Terrier,1,14,3,3.6,3.0,2.2,4.33,False,False,True,True
